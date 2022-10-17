@@ -1,5 +1,5 @@
-# Java-01
-OOP/Collections
+# Day 01 – Piscine Java
+### OOP/Collections
 
 ### Exercise 00 – Models
 
